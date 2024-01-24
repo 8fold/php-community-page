@@ -10,15 +10,27 @@ Official PHP documentation can be found at [PHP.net](https://www.php.net).
 
 |Site |Support |Platform |
 |:--------|:----|:-------|
+|[AFUP](https://afup.org/home) |[Self-hosted](https://afup.org/association/devenir-membre) |unknown |
 |[PHPC.social](https://phpc.social) |[Open Collective](https://opencollective.com/phpcommunity/projects/phpc-social) |Mastodon |
+|[PHP-FIG](https://www.php-fig.org) |n/a |n/a |
 |[PHP Foundation](https://opencollective.com/phpfoundation) |same |Open Collective |
 |[Slim Framework](https://www.slimframework.com/#community) |[Main support page](https://www.slimframework.com/contribute/) |Slim |
+|[PHP.UserGroup](https://php.ug) |n/a |n/a |
 
 ## Training and development
 
 |Site |Focus |
 |:-----|:----|
 |[Laracasts](https://laracasts.com) |Laravel (and more) |
+
+## Packages (and tools)
+
+|Site |Support |Purpose |
+|:----|:-------|:-------|
+|[CommonMark](https://commonmark.thephpleague.com) |[GitHub Sponsors and others](https://github.com/thephpleague/commonmark) |Markdown parser |
+|[PHPStan](https://phpstan.org) |[GitHub Sponsors and others](https://github.com/phpstan/phpstan) |Static analysis |
+|[PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) |n/a |Code linting |]
+
 
 ## Frameworks
 
@@ -28,6 +40,7 @@ Official PHP documentation can be found at [PHP.net](https://www.php.net).
 |[Pest](https://pestphp.com) |[GitHub Sponsrs and others](https://github.com/pestphp/pest) |Testing |
 |[PHP Unit](https://phpunit.de) |[GitHub Sponsors and others](https://github.com/sebastianbergmann/phpunit/) |Testing |
 |[Slim Framework](https://www.slimframework.com/#community) |[Main support page](https://www.slimframework.com/contribute/) |Rapid application development |
+|[Symfony](https://symfony.com) |[GitHub Sponsors and others](https://github.com/symfony/symfony) |Rapid application development |
 
 ## History
 
