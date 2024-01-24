@@ -4,7 +4,7 @@ Official PHP documentation can be found at [PHP.net](https://www.php.net).
 
 "Site" is the official name of (and link to) the thing. Tables are sorted by Site ascending.
 
-(This is a work in progress. If you feel like something is missing, please submit a pull request, post an issue, or jump into the discussions. There's a lot going on out there in the PHP world, and we all need to dedicate our time based on similar priorities.)
+(This is a work in progress. If you feel like something is missing, please submit a pull request, post an issue, or jump into the discussions. There's a lot going on out there in the PHP world, and we all need to dedicate our time based on similar priorities. Rest assured, if you or your project get excluded intentionally, you will be informed directly, given reasons why, and a way to correct.)
 
 ## Social and forum links
 
